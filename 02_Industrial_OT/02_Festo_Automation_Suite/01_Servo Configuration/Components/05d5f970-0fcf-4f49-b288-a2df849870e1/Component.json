@@ -1,0 +1,48 @@
+﻿{
+  "InstanceGuid": "05d5f970-0fcf-4f49-b288-a2df849870e1",
+  "Name": null,
+  "Guid": "dd9cd61e-7fbb-4785-87aa-0e774d93878e",
+  "Description": null,
+  "Metadata": {
+    "Versions": "[\"2.11.1.7\"]"
+  },
+  "Resources": [
+    {
+      "Location": "FirmwareDeviceFile.xml",
+      "Description": null,
+      "OwnerGuid": "05d5f970-0fcf-4f49-b288-a2df849870e1",
+      "Metadata": {}
+    },
+    {
+      "Location": "DeviceParameters.csv",
+      "Description": null,
+      "OwnerGuid": "05d5f970-0fcf-4f49-b288-a2df849870e1",
+      "Metadata": {}
+    },
+    {
+      "Location": "InternalParameters.csv",
+      "Description": null,
+      "OwnerGuid": "05d5f970-0fcf-4f49-b288-a2df849870e1",
+      "Metadata": {}
+    },
+    {
+      "Location": "watchlist.json",
+      "Description": null,
+      "OwnerGuid": "05d5f970-0fcf-4f49-b288-a2df849870e1",
+      "Metadata": {}
+    },
+    {
+      "Location": "traceProfile.json",
+      "Description": null,
+      "OwnerGuid": "05d5f970-0fcf-4f49-b288-a2df849870e1",
+      "Metadata": {}
+    },
+    {
+      "Location": "validationWizard.json",
+      "Description": null,
+      "OwnerGuid": "05d5f970-0fcf-4f49-b288-a2df849870e1",
+      "Metadata": {}
+    }
+  ],
+  "FormatVersion": "0.02"
+}

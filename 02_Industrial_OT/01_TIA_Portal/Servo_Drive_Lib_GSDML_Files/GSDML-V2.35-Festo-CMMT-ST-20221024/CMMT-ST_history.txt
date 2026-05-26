@@ -1,0 +1,34 @@
+GSDML-V2.35-Festo-CMMT-ST-20221024, Firmware V23, V24
+===================================
+- remove OrderNumber and HardwareRelease for PNO certification
+- correct datatype of MDI_TARPOS
+
+
+GSDML-V2.35-Festo-CMMT-ST-20220124, Firmware V22
+===================================
+- first release of MP device
+
+
+GSDML-V2.35-Festo-CMMT-ST-20210817, Firmware V21
+===================================
+- change GSDML version to V2.35
+- prepare second DAP for MP device, new sorting order of DAP entries
+- change T_IO entries in IRT telegrams from 5 x 25µs to 1 x 125000µs
+
+
+GSDML-V2.34-Festo-CMMT-ST-20200204, Firmware V18, V19 and V20
+===================================
+- change VendorName to "Festo"
+
+
+GSDML-V2.34-Festo-CMMT-ST-20191201, Firmware V17
+===================================
+- add "PowerOnToCommReady" keyword ad DAP
+- correct Release numbers
+- add bit descriptions for HoldingBrake and ModuloDirection
+
+
+GSDML-V2.34-Festo-CMMT-ST-20190601, Firmware V16
+===================================
+- initial release
+

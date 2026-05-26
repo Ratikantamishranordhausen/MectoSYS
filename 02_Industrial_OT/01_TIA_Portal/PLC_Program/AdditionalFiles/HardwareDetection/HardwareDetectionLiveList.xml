@@ -1,0 +1,15 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="14D" DeviceID="204" TypeID="14D0204" DeviceType="Festo CMMT-ST">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>xd0060-drv2-ca2-ta1f672</NameOfStation>
+    <MacAddress>00-0E-F0-7E-CB-1C</MacAddress>
+    <IPAddress>10.193.33.21</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="2A" DeviceID="A0B" TypeID="2A0A0B" DeviceType="SCALANCE XC-200">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>
+    </NameOfStation>
+    <MacAddress>38-4B-24-40-DB-A0</MacAddress>
+    <IPAddress>10.193.33.11</IPAddress>
+  </OnlineDevice>
+</OnlineDevices>
