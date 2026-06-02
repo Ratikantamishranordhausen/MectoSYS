@@ -1,0 +1,9 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="2A" DeviceID="A0B" TypeID="2A0A0B" DeviceType="SCALANCE XC-200">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>
+    </NameOfStation>
+    <MacAddress>38-4B-24-40-DB-A0</MacAddress>
+    <IPAddress>0.0.0.0</IPAddress>
+  </OnlineDevice>
+</OnlineDevices>
